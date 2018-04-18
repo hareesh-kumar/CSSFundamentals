@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 50;
+    color: #e7eef4;
+
+}
+#container{
+    width: 970px;
+    background-color: #245076;
+    padding: 10px;
+}
+#logoimg{
+    display: inline-block;
+    width: 700px;
+    padding-left: 10px;
+}
+.logo{
+    width: 350px;
+}
+#headerright{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 80%;
+}
+.textsize{
+    margin-left: 55px;
+    margin-bottom:5px;
+    color: #b5c4d0;
+}
+.textsizelink{
+    color: #d5b300;
+}
+.seperator{
+    color: black;
+}
+#search{
+    background-color: #444444;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #24272a;
+    width: 250px;
+    height: 55px;
+    line-height: 55px;
+    vertical-align: middle;
+}
+.searchbox{
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    font-size: 80%;
+}
+.button{
+    width: 35px;
+    height: 25px;
+    background-color: #245076;
+    color: #b0c0ce;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 80%;
+}
+#menu{
+    width: 890px;
+    height: 40px;
+    margin: 0 0 0 60px;
+    background: linear-gradient(#3576ad,#477ead,#3576ad );
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #24272a;
+    display: table;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+}
+table{
+    width: 100%;
+    padding: 0 40px;
+    font-size: 125%;
+    color:#e7eef4;
+}
+#navigation{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 200px;
+    margin: 0 0 0 70px;
+    padding: 30px 0;
+}
+.navlist{
+    list-style-position: inside;
+    list-style-type: none;
+    color: #e7eef4;
+    font-size: 90%;
+    padding: 10px;
+}
+li{
+    margin: 0 0 8px 0;
+}
+#navigation ul li:before{
+    content: '\226B';
+    margin: 0 5px;
+    color: #ffd42e;
+    font-size: 60%;
+    height: 20px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+#navigation a:visited{
+    color: #e7eef4;
+}
+#about{
+    display: inline-block;
+    width: 600px;
+    text-align: center;
+    padding: 15px;
+}
+.intro{
+    color: #e7eef4;
+    font-size: 85%;
+}
+#about p{
+    margin: 5px;
+}
+.moto{
+    font-size:125%;
+    color: #ffd42e;
+    font-style: italic;
+}

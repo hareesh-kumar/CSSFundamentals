@@ -7,7 +7,7 @@
 #container{
     width: 970px;
     background-color: #245076;
-    padding: 10px 10px 5px 10px;
+    padding: 10px 10px 0px 10px;
 }
 #logoimg{
     display: inline-block;
@@ -47,7 +47,8 @@
     width: 150px;
     height: 25px;
     text-align: center;
-    font-size: 80%;
+    font-size: 90%;
+    margin-right: 5px;
 }
 .button{
     width: 35px;
@@ -89,16 +90,16 @@ table{
     list-style-type: none;
     color: #e7eef4;
     font-size: 90%;
-    padding: 10px;
+    padding: 5px 10px 10px 10px;
 }
 li{
-    margin: 0 0 8px 0;
+    margin: 0 0 5px 0;
 }
 #navigation ul li:before{
     content: '\226B';
     margin: 0 5px;
     color: #ffd42e;
-    font-size: 60%;
+    font-size: 50%;
     height: 20px;
     line-height: 20px;
     vertical-align: middle;
@@ -177,6 +178,11 @@ li{
 }
 #footer{
     text-align: center;
+    background: linear-gradient(#255177, #3374ac);
+    width: 990px;
+    padding-bottom: 5px;
+    position: relative;
+    left: -10px;
 }
 #footer h3{
     display: inline-block;

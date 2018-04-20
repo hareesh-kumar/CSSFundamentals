@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainarea{
+    height: 600px ;
+    width: 660px;
+    background-color: #d5d2ae;
+    padding: 20px;
+    text-align: center;
+}
+.title{
+    width: 660px;
+    height: 65px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+}
+.title img{
+    width: 100px;  
+    height: 50px;
+    background: white;
+    display: inline-block;
+}
+.title h1{
+    display: inline-block;
+}
+.content{
+    margin: auto;
+}
+.content img{
+    width: 100px;
+    height: 100p;
+    padding: 10px;
+    border: 3px solid black;
+}
+.blue{
+    background-color: #82b4ee;
+}
+.pink{
+    background-color: #f36870;
+}

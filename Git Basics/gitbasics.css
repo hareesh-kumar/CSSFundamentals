@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 85%;
+    margin: 5px;
+    padding: 10px 5px;
+}
+.highlight{
+    color: #4ddccb;
+}
+.main{
+    width: 843px;
+    height: 644px;
+    background-color: #dddfd4;
+    padding: 15px;
+    color: #dcded3;
+}
+.title{
+    width: 843px;
+    height: 55px;
+    background-color: #38b0ad;
+    margin-bottom: 15px;
+    vertical-align: middle;
+    line-height: 55px;
+}
+.title img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    background-color: #38b0ad;
+}
+.title h1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 130px;
+    color: black;
+}
+.title p{
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    padding: 0 10px;
+    margin: 0;
+}
+.title p a:visited{
+    color: white;
+}
+.content{
+    width: 842px;
+    height: 504px;
+    background-color: #fbe691;
+    margin-bottom: 5px;
+}
+.whatis{
+    width: 206px;
+    height: 454px;
+    background-color:  #153f43;
+    padding: 10px;
+    margin: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+.whatis h3{
+    margin: 5px 0;
+}
+.gitdetails{
+    width: 553px;
+    height: 454px;
+    display: inline-block;
+    vertical-align: top;
+}
+.squares{
+    width: 150px;
+    height: 150px;
+    background-color:#153f43; 
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+}
+.rectangles{
+    width: 242px;
+    height: 135px;
+    background-color:#153f43; 
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+}
+.bigrectangle{
+    width: 518px;
+    height: 128px;
+    background-color:#153f43; 
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+}
+.footer{
+    width: 843px;
+    height: 65px;
+    background-color: #38b0ad;   
+}

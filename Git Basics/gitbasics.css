@@ -97,8 +97,20 @@ p{
     vertical-align: top;
     margin: 15px;
 }
+h4{
+    padding: 6px 0 0 6px;
+}
+.gitdetails p{
+    margin-left: 10px;
+}
 .footer{
     width: 843px;
     height: 65px;
     background-color: #38b0ad;   
+}
+.footer p{
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 45px;
 }
